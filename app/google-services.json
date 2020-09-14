@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "455675024022",
+    "firebase_url": "https://add-food.firebaseio.com",
+    "project_id": "add-food",
+    "storage_bucket": "add-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455675024022:android:365fd6c74772bf95",
+        "android_client_info": {
+          "package_name": "com.example.addfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455675024022-q2qmkdpm5e5im38ciif11ujn4n15gmq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.addfoods",
+            "certificate_hash": "183c169018447016e81ce8533e3bbf5503b3b693"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkNy1ccX3K55xr_jxdr611iCXIZqg-734"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455675024022-jj26eqar8m0l114lcn3jb2m4fta25l17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
